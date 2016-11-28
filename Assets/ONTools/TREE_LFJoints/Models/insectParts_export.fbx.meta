@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: eb66326f794274989ac5bf57fda8bb02
+timeCreated: 1473896327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomenA
+    100002: antennaA
+    100004: ballA
+    100006: ballA_loRes
+    100008: ballB
+    100010: ballB_loRes
+    100012: //RootNode
+    100014: legFootA
+    100016: legMidA
+    100018: legUpA
+    100020: abdomenB
+    100022: wingA
+    100024: wingB
+    100026: wingC
+    100028: wingD
+    100030: wingF
+    100032: ballC
+    100034: ballD
+    100036: ballE
+    100038: ballF
+    100040: ballG
+    100042: ballH
+    100044: ballK
+    100046: legFootB
+    100048: legUpB
+    100050: wingE
+    100052: wingG
+    400000: abdomenA
+    400002: antennaA
+    400004: ballA
+    400006: ballA_loRes
+    400008: ballB
+    400010: ballB_loRes
+    400012: //RootNode
+    400014: legFootA
+    400016: legMidA
+    400018: legUpA
+    400020: abdomenB
+    400022: wingA
+    400024: wingB
+    400026: wingC
+    400028: wingD
+    400030: wingF
+    400032: ballC
+    400034: ballD
+    400036: ballE
+    400038: ballF
+    400040: ballG
+    400042: ballH
+    400044: ballK
+    400046: legFootB
+    400048: legUpB
+    400050: wingE
+    400052: wingG
+    2300000: abdomenA
+    2300002: antennaA
+    2300004: ballA
+    2300006: ballA_loRes
+    2300008: ballB
+    2300010: ballB_loRes
+    2300012: legFootA
+    2300014: legMidA
+    2300016: legUpA
+    2300018: abdomenB
+    2300020: wingA
+    2300022: wingB
+    2300024: wingC
+    2300026: wingD
+    2300028: wingF
+    2300030: ballC
+    2300032: ballD
+    2300034: ballE
+    2300036: ballF
+    2300038: ballG
+    2300040: ballH
+    2300042: ballK
+    2300044: legFootB
+    2300046: legUpB
+    2300048: wingE
+    2300050: wingG
+    3300000: abdomenA
+    3300002: antennaA
+    3300004: ballA
+    3300006: ballA_loRes
+    3300008: ballB
+    3300010: ballB_loRes
+    3300012: legFootA
+    3300014: legMidA
+    3300016: legUpA
+    3300018: abdomenB
+    3300020: wingA
+    3300022: wingB
+    3300024: wingC
+    3300026: wingD
+    3300028: wingF
+    3300030: ballC
+    3300032: ballD
+    3300034: ballE
+    3300036: ballF
+    3300038: ballG
+    3300040: ballH
+    3300042: ballK
+    3300044: legFootB
+    3300046: legUpB
+    3300048: wingE
+    3300050: wingG
+    4300000: abdomenA
+    4300002: antennaA
+    4300004: ballA_loRes
+    4300006: ballA
+    4300008: ballB_loRes
+    4300010: ballB
+    4300012: legFootA
+    4300014: legMidA
+    4300016: legUpA
+    4300018: abdomenB
+    4300020: wingA
+    4300022: wingB
+    4300024: wingC
+    4300026: wingD
+    4300028: wingF
+    4300030: ballC
+    4300032: ballD
+    4300034: ballE
+    4300036: ballF
+    4300038: ballG
+    4300040: ballH
+    4300042: ballK
+    4300044: legFootB
+    4300046: legUpB
+    4300048: wingE
+    4300050: wingG
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

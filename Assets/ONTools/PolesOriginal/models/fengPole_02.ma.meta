@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e92e5b908b78c4b2a88ea91686586da9
+timeCreated: 1428083383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: beam
+    100002: beam1
+    100004: beam_hook
+    100006: beam_hook1
+    100008: bulb
+    100010: decor
+    100012: //RootNode
+    100014: geo
+    100016: glass
+    100018: hook_1
+    100020: hook_2
+    100022: hook_3
+    100024: hook_4
+    100026: hooks
+    100028: lamp
+    100030: metal
+    100032: pCube1
+    100034: pole_A
+    100036: poleGeo
+    100038: stalk
+    100040: wood
+    400000: beam
+    400002: beam1
+    400004: beam_hook
+    400006: beam_hook1
+    400008: bulb
+    400010: decor
+    400012: //RootNode
+    400014: geo
+    400016: glass
+    400018: hook_1
+    400020: hook_2
+    400022: hook_3
+    400024: hook_4
+    400026: hooks
+    400028: lamp
+    400030: metal
+    400032: pCube1
+    400034: pole_A
+    400036: poleGeo
+    400038: stalk
+    400040: wood
+    2300000: beam
+    2300002: beam1
+    2300004: beam_hook
+    2300006: beam_hook1
+    2300008: bulb
+    2300010: glass
+    2300012: hook_1
+    2300014: hook_2
+    2300016: hook_3
+    2300018: hook_4
+    2300020: pCube1
+    2300022: poleGeo
+    2300024: stalk
+    3300000: beam
+    3300002: beam1
+    3300004: beam_hook
+    3300006: beam_hook1
+    3300008: bulb
+    3300010: glass
+    3300012: hook_1
+    3300014: hook_2
+    3300016: hook_3
+    3300018: hook_4
+    3300020: pCube1
+    3300022: poleGeo
+    3300024: stalk
+    4300000: poleGeo
+    4300002: stalk
+    4300004: bulb
+    4300006: glass
+    4300008: hook_1
+    4300010: hook_2
+    4300012: hook_3
+    4300014: hook_4
+    4300016: pCube1
+    4300018: beam_hook
+    4300020: beam
+    4300022: beam1
+    4300024: beam_hook1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: d297514edc5eb4959a3207c32d2ce245
+timeCreated: 1428083383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bulb
+    100002: decor
+    100004: //RootNode
+    100006: geo
+    100008: glass
+    100010: hook
+    100012: hook_1
+    100014: hook_2
+    100016: hook_3
+    100018: hook_4
+    100020: hooks
+    100022: lamp
+    100024: pCube1
+    100026: pCube2
+    100028: pCube3
+    100030: pCube4
+    100032: pCube5
+    100034: pCube6
+    100036: pole
+    100038: poleGeo
+    100040: stalk
+    100042: transformer
+    100044: tub
+    100046: wood
+    400000: bulb
+    400002: decor
+    400004: //RootNode
+    400006: geo
+    400008: glass
+    400010: hook
+    400012: hook_1
+    400014: hook_2
+    400016: hook_3
+    400018: hook_4
+    400020: hooks
+    400022: lamp
+    400024: pCube1
+    400026: pCube2
+    400028: pCube3
+    400030: pCube4
+    400032: pCube5
+    400034: pCube6
+    400036: pole
+    400038: poleGeo
+    400040: stalk
+    400042: transformer
+    400044: tub
+    400046: wood
+    2300000: bulb
+    2300002: glass
+    2300004: hook
+    2300006: hook_1
+    2300008: hook_2
+    2300010: hook_3
+    2300012: hook_4
+    2300014: pCube1
+    2300016: pCube2
+    2300018: pCube3
+    2300020: pCube4
+    2300022: pCube5
+    2300024: pCube6
+    2300026: poleGeo
+    2300028: stalk
+    2300030: tub
+    3300000: bulb
+    3300002: glass
+    3300004: hook
+    3300006: hook_1
+    3300008: hook_2
+    3300010: hook_3
+    3300012: hook_4
+    3300014: pCube1
+    3300016: pCube2
+    3300018: pCube3
+    3300020: pCube4
+    3300022: pCube5
+    3300024: pCube6
+    3300026: poleGeo
+    3300028: stalk
+    3300030: tub
+    4300000: poleGeo
+    4300002: stalk
+    4300004: bulb
+    4300006: glass
+    4300008: hook_4
+    4300010: hook_1
+    4300012: hook_2
+    4300014: hook_3
+    4300016: tub
+    4300018: hook
+    4300020: pCube1
+    4300022: pCube5
+    4300024: pCube4
+    4300026: pCube2
+    4300028: pCube3
+    4300030: pCube6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

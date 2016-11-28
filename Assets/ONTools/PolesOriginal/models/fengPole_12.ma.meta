@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: f71cc1ec09cb74d77aef0636cc4a6f31
+timeCreated: 1428195987
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bulb
+    100002: decor
+    100004: //RootNode
+    100006: geo
+    100008: glass
+    100010: hook_1
+    100012: hook_2
+    100014: hook_3
+    100016: hook_4
+    100018: hookBase1
+    100020: hookBase2
+    100022: hookBase3
+    100024: hookHolder1
+    100026: hookHolder2
+    100028: hookHolder3
+    100030: hookHolders
+    100032: hooks
+    100034: lamp
+    100036: poleGeo
+    100038: stalk
+    400000: bulb
+    400002: decor
+    400004: //RootNode
+    400006: geo
+    400008: glass
+    400010: hook_1
+    400012: hook_2
+    400014: hook_3
+    400016: hook_4
+    400018: hookBase1
+    400020: hookBase2
+    400022: hookBase3
+    400024: hookHolder1
+    400026: hookHolder2
+    400028: hookHolder3
+    400030: hookHolders
+    400032: hooks
+    400034: lamp
+    400036: poleGeo
+    400038: stalk
+    2300000: bulb
+    2300002: glass
+    2300004: hook_1
+    2300006: hook_2
+    2300008: hook_3
+    2300010: hook_4
+    2300012: hookBase1
+    2300014: hookBase2
+    2300016: hookBase3
+    2300018: hookHolder1
+    2300020: hookHolder2
+    2300022: hookHolder3
+    2300024: poleGeo
+    2300026: stalk
+    3300000: bulb
+    3300002: glass
+    3300004: hook_1
+    3300006: hook_2
+    3300008: hook_3
+    3300010: hook_4
+    3300012: hookBase1
+    3300014: hookBase2
+    3300016: hookBase3
+    3300018: hookHolder1
+    3300020: hookHolder2
+    3300022: hookHolder3
+    3300024: poleGeo
+    3300026: stalk
+    4300000: poleGeo
+    4300002: stalk
+    4300004: bulb
+    4300006: glass
+    4300008: hook_1
+    4300010: hook_2
+    4300012: hook_3
+    4300014: hook_4
+    4300016: hookBase1
+    4300018: hookHolder1
+    4300020: hookBase2
+    4300022: hookHolder2
+    4300024: hookBase3
+    4300026: hookHolder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
